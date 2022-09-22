@@ -12,5 +12,10 @@ public class Main {
         for (int z = 7; z <= 98; z += 7) {
             System.out.println(z);
         }
+        // Задание 3.2
+        System.out.println("Задание 3.2");
+        for (int e = 1; e <= 512; e *= 2) {
+            System.out.println(e);
+        }
     }
 }
